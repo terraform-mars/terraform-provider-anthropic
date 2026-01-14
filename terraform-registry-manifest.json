@@ -1,6 +1,7 @@
 {
   "version": 1,
   "metadata": {
-    "protocol_versions": ["6.0"]
+    "protocol_versions": ["6.0"],
+    "icon_url": "https://raw.githubusercontent.com/terraform-mars/terraform-provider-anthropic/main/icon.svg"
   }
 }
